@@ -1,0 +1,3 @@
+[submodule "ubiquitous-happiness"]
+	path = ubiquitous-happiness
+	url = git@github.com:zbtn/ubiquitous-happiness.git
